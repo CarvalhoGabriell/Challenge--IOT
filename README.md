@@ -15,6 +15,6 @@ Repositorio criado para entrega da challenge na matéria de Disruptive IOT.
 
 </ul>
 
-<span> Link do Video no YouTube</span>   [![YouTube Badge]()]
+<span> Link do Video no YouTube</span>   [![YouTube](https://youtu.be/dIqo2ECrwuA)]
 
-## O Json do Flow da Nossa Simulação no Node-red encontra-se nos arquivos do proejto acima
+## => O Json do Flow da Nossa Simulação no Node-red encontra-se nos diretório do projeto acima
